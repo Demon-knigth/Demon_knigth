@@ -1,5 +1,6 @@
-<h1 align="center">Hi Iiandam Elizeo Pineda Ramirez</h1>
+<h1 align="center">Hi I´am Elizeo Pineda Ramirez</h1>
 <h3 align="center">Un programador profesional con 5 años de experiencia</h3>
+<img src="Elizeo Pineda Ramirez.png" alt="" width="770" height="350"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=demon-knigth&label=Profile%20views&color=0e75b6&style=flat" alt="demon-knigth" /> </p>
 
